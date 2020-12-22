@@ -1,5 +1,5 @@
 # gshop-client-pre
-
+这是other分支
 ## Project setup
 ```
 npm install
